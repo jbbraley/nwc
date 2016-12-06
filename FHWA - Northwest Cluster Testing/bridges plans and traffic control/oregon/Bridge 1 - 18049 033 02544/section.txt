@@ -1,1 +1,5 @@
-﻿
+﻿name, bulb tee 1830
+girder spacing, 2804, 9'-3"
+deck thickness, 205
+d, 72
+out-to-out width, 14.02, 46
